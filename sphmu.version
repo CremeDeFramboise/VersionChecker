@@ -1,11 +1,11 @@
 {
     "masterVersionFile":"https://raw.githubusercontent.com/CremeDeFramboise/VersionChecker/main/sphmu.version",
     "modName":"Special Hullmod Upgrades",
-    #"modThreadId":N/A,
+    "modThreadId":25424,
     "modVersion":
     {
         "major":1,
-        "minor":0,
-        "patch":a # Can be a number, character or string (1, 2, a, b, "-RC2", etc)
+        "minor":1,
+        "patch":0 # Can be a number, character or string (1, 2, a, b, "-RC2", etc)
     },
 }
