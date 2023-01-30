@@ -1,0 +1,12 @@
+{
+    "masterVersionFile":"https://raw.githubusercontent.com/CremeDeFramboise/VersionChecker/main/sneedandfeed.version",
+    "modName":"Sephira Refits",
+    #"modThreadId":"69696969",
+    "modVersion":
+    {
+        "major":1,
+        "minor":0,
+        "patch":"0" # Can be a number, character or string (1, 2, a, b, "-RC2", etc)
+    },
+	"starsectorVersion":"0.95.1a-RC6",
+}
