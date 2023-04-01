@@ -16,10 +16,6 @@
     # Example links for common hosts:
     #I'm not sure why this isn't working. It should work? Everything seems to be in the right place?
     "masterVersionFile":"https://raw.githubusercontent.com/CremeDeFramboise/VersionChecker/main/bladebreaker-plus.version",
-    #"masterVersionFile":"https://bitbucket.org/LazyWizard/version-checker/downloads/versionchecker.version",
-    #"masterVersionFile":"https://github.com/LazyWizard/VersionChecker/blob/master/versionchecker.version",
-    #"masterVersionFile":"https://github.com/LazyWizard/VersionChecker/releases/download/0.1/versionchecker.version",
-    #"masterVersionFile":"https://dl.dropboxusercontent.com/u/32722116/Version%20Files/versionchecker.version",
     "modName":"Blade Breaker Plus",
     # The ID of the thread where updates to this mod can be found (optional).
     # This is used to launch directly to the forum thread from in the game.
