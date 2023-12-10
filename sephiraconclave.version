@@ -15,8 +15,8 @@
     #
     # Example links for common hosts:
     #I'm not sure why this isn't working. It should work? Everything seems to be in the right place?
-    "masterVersionFile":"https://raw.githubusercontent.com/CremeDeFramboise/VersionChecker/main/bladebreaker-plus.version",
-    "modName":"Blade Breaker Plus",
+    "masterVersionFile":"https://raw.githubusercontent.com/CremeDeFramboise/VersionChecker/main/sephiraconclave.version",
+    "modName":"Sephira Conclave",
     # The ID of the thread where updates to this mod can be found (optional).
     # This is used to launch directly to the forum thread from in the game.
     # The ID is the set of digits at the end of the forum thread URL before the dot.
@@ -29,7 +29,7 @@
     "modVersion":
     {
         "major":1,
-        "minor":4,
+        "minor":6,
         "patch":a # Can be a number, character or string (1, 2, a, b, "-RC2", etc)
     },
 }
