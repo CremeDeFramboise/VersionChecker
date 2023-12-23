@@ -9,7 +9,7 @@
         "patch":b # Can be a number, character or string (1, 2, a, b, "-RC2", etc)
     },
 	"starsectorVersion":"0.96a-RC10",
-	"directDownloadURL":"https://github.com/CremeDeFramboise/Special-Hullmod-Upgrades/releases/download/v1.3c/Special.Hullmod.Upgrades.zip",
+	"directDownloadURL":"https://github.com/CremeDeFramboise/Special-Hullmod-Upgrades/releases/download/v1.4b/Special.Hullmod.Upgrades.zip",
 	
 	#Link towards a directly accessible text file, which can be used to display a changelog ingame, is fetched from the online version file.
 	"changelogURL":"https://raw.githubusercontent.com/CremeDeFramboise/Special-Hullmod-Upgrades/main/Special%20Hullmod%20Upgrades/Changelog.txt",
