@@ -1,11 +1,12 @@
 {
-    "masterVersionFile":"https://raw.githubusercontent.com/CremeDeFramboise/VersionChecker/main/sephiraconclave.version",
+    "masterVersionFile":"https://gitgud.io/Meiyu/sephira-conclave/-/raw/master/versionchecker/sephiraconclave.version",
     "modName":"Sephira Conclave",
     "modVersion":
     {
         "major":1,
         "minor":7,
-        "patch":b
+        "patch":c # Can be a number, character or string (1, 2, a, b, "-RC2", etc)
     },
-    #"directDownloadURL":"https://gitgud.io/Meiyu/sephira-conclave/-/raw/master/Sephira_Conclave.zip",
+    "directDownloadURL":"https://gitgud.io/Meiyu/sephira-conclave/-/raw/master/downloads/Sephira_Conclave.zip",
+	"changelogURL":"https://gitgud.io/Meiyu/sephira-conclave/-/raw/master/changelog/SC_Changelog.txt",
 }
