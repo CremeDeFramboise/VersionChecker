@@ -8,5 +8,5 @@
         "patch":c # Can be a number, character or string (1, 2, a, b, "-RC2", etc)
     },
     "directDownloadURL":"https://gitgud.io/Meiyu/sephira-conclave/-/raw/master/downloads/Sephira_Conclave.zip",
-	"changelogURL":"https://gitgud.io/Meiyu/sephira-conclave/-/raw/master/changelog/SC_Changelog.txt",
+    "changelogURL":"https://gitgud.io/Meiyu/sephira-conclave/-/raw/master/changelog/SC_Changelog.txt",
 }
